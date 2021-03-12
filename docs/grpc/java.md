@@ -191,19 +191,19 @@ Execute the following command in the directory where the **pom.xml** file is loc
 [INFO] ------------------------------------------------------------------------
 [INFO] os.detected.name: osx
 [INFO] os.detected.arch: x86_64
-[INFO] os.detected.version: 10.13
+[INFO] os.detected.version: 10.15
 [INFO] os.detected.version.major: 10
-[INFO] os.detected.version.minor: 13
+[INFO] os.detected.version.minor: 15
 [INFO] os.detected.classifier: osx-x86_64
 [INFO]
 [INFO] ------------------------------------------------------------------------
 [INFO] Building lightning-client 0.0.1-SNAPSHOT
 [INFO] ------------------------------------------------------------------------
 [INFO]
-[INFO] --- protobuf-maven-plugin:0.5.0:compile (default) @ lightning-client ---
+[INFO] --- protobuf-maven-plugin:0.6.1:compile (default) @ lightning-client ---
 [INFO] Compiling 3 proto file(s) to /Users/user/Documents/Projects/lightningclient/target/generated-sources/protobuf/java
 [INFO]
-[INFO] --- protobuf-maven-plugin:0.5.0:compile-custom (default) @ lightning-client ---
+[INFO] --- protobuf-maven-plugin:0.6.1:compile-custom (default) @ lightning-client ---
 [INFO] Compiling 3 proto file(s) to /Users/user/Documents/Projects/lightningclient/target/generated-sources/protobuf/grpc-java
 [INFO]
 [INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ lightning-client ---
